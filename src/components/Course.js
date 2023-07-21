@@ -4,7 +4,6 @@ import StarRating from "../components/StarRating";
 
 const Course = (props) => {
   const {
-    id,
     image,
     course_name,
     creator,
